@@ -7,4 +7,4 @@
 ## 2- KNN
 - Implement a method called evaluate in the KNN algorithm class.It should Returns the accuracy percentage of the algorithm as a number between zero and one.
 ## 3- KNN-OCR of Hand-written Digits
-KNN-OCR of Hand-written Digits
+- KNN-OCR of Hand-written Digits
