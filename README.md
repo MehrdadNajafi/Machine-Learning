@@ -20,3 +20,19 @@
 - Create a database with random numbers for (balloon and melon)
 - Display the generated database in three dimensions (3D Scatter)
 > ![output](https://user-images.githubusercontent.com/88179607/150129252-fd034da4-5d35-4648-b807-8805f01d06d5.png)
+## Assignment 33
+- Analysis an Online Retail dataset to figure out the problem in April.
+- As shown in the charts, in April, the store was unable to attract new customers as well as retain old customers.
+  >![2](https://user-images.githubusercontent.com/88179607/151639846-2826e5d5-b080-459b-bac5-b2a2ad3be12b.png)
+  >![3](https://user-images.githubusercontent.com/88179607/151639849-cdff7fd2-e4d4-45bb-81a8-8544c2a0a001.png)
+  >![4](https://user-images.githubusercontent.com/88179607/151639857-d3a235b8-eba4-4f10-a63b-9525edd6ed8b.png)
+## Assignment 34
+### 1- Covid-19
+- Analyze Covid 19 data and show the 8 most affected countries in April 2020
+  > ![Screenshot (173)](https://user-images.githubusercontent.com/88179607/151640446-e317d01d-f3f3-4bbb-b7d1-86c483fe1e1a.png)
+- Draw a graph that shows the mortality rate VS the number of cases in Iran on different days
+  > ![Screenshot (174)](https://user-images.githubusercontent.com/88179607/151640490-7f83f386-949f-4883-a4e9-9dc2ad207eaa.png)
+### 2- KNN
+- Implement a method called evaluate in the KNN algorithm class.It should Returns the accuracy percentage of the algorithm as a number between zero and one.
+### 3- KNN-OCR of Hand-written Digits
+- KNN-OCR of Hand-written Digits
