@@ -8,3 +8,6 @@
   >![output](https://user-images.githubusercontent.com/88179607/152646672-131ae0c0-a72c-4062-9c2c-e376a964efe5.png)
 - Compare the output of your method with the output of the linregress method from the scipy library
   >![output](https://user-images.githubusercontent.com/88179607/152646708-cca4f4ea-25f0-4de6-b45f-d2463a96a35a.png)
+# 3- Boston LLS Regression
+- Implement the Linear least squares method on the Boston database from the scikit-learn library
+  >![output](https://user-images.githubusercontent.com/88179607/153224413-a7fed698-fdb3-4288-ab60-0d1bfec9c082.png)
