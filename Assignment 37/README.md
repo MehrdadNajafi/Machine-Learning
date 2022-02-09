@@ -1,5 +1,5 @@
 # 1- Digikala
-- Draw the following diagrams for digital data
+- Draw the following diagrams for Digikala data:
   - Number of orders per month
   - Customers by city
 - Result
