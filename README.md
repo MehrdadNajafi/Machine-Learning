@@ -44,4 +44,41 @@
 - Run the KNN algorithm on the Abalone database
 ### Nemo-KNN
 - Use KNN algorithm and Train the algorithm with a Clownfish image and test it with another Clownfish image
-
+## Assignment 36
+### 1- iris-KNN-Confusion Matrix
+- For the iris dataset, plot the confusion matrix
+  - ![output](https://user-images.githubusercontent.com/88179607/152646499-00992c01-b2ca-4184-996c-9696af1233db.png)
+### 2- LLS- Study hour & Score
+- Create continuous random data on the number of study hours (X) and the score (Y) of students as follows (the more you study, the higher your score)
+  >![output](https://user-images.githubusercontent.com/88179607/152646620-1614b62a-9804-436c-8520-a05353808ae7.png)
+- Then draw a few lines with a random and wrong slope on it. Then, with the help of the Linear least squares method, get and draw the line with the correct slope.
+  >![output](https://user-images.githubusercontent.com/88179607/152646672-131ae0c0-a72c-4062-9c2c-e376a964efe5.png)
+- Compare the output of your method with the output of the linregress method from the scipy library
+  >![output](https://user-images.githubusercontent.com/88179607/152646708-cca4f4ea-25f0-4de6-b45f-d2463a96a35a.png)
+### 3- Boston LLS Regression
+- Implement the Linear least squares method on the Boston database from the scikit-learn library
+  >![output](https://user-images.githubusercontent.com/88179607/153224413-a7fed698-fdb3-4288-ab60-0d1bfec9c082.png)
+## Assignment 37
+### 1- Digikala
+- Draw the following diagrams for Digikala data:
+  - Number of orders per month
+  - Customers by city
+- Result
+  >![output](https://user-images.githubusercontent.com/88179607/153226204-801c324f-7866-4f90-b001-7168d79b3720.png)
+  >![output](https://user-images.githubusercontent.com/88179607/153226291-b912a35a-3ec3-4f09-8160-a529808ad11d.png)
+### 2- QR Code Reader
+- Qr Code Reader program using opencv.
+### 3- Abalone LLS
+- Solve the Abalone problem as Regression and estimate the age of the oyster
+- Add 4 Loss function :
+  - MAE Loss
+  - MSE Loss
+  - Huber Loss
+  - Hinge Loss
+## Assignment 38
+- Use the perceptron algorithm to teach a linear model on the Boston dataset
+  - Data graph and forecast page in animation and Graph the error rate in the training process
+    > ![20220215_114903](https://user-images.githubusercontent.com/88179607/154021043-2a87118b-1d65-45fb-8d7c-2925d1715f2e.gif)
+    > ![Screenshot (32)](https://user-images.githubusercontent.com/88179607/154020214-7c3719f2-0d2e-4b85-9944-e51488113bb1.png)
+  - Write the predict function that can take x_test to predict y_test.
+  - Write the evaluate function and report the train accuracy and test accuracy.
