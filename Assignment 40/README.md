@@ -4,6 +4,7 @@
   - Execute predict on test data and report results
   - Save the most modeled
   - Compare the accuracy of the models
+
 | Algorithm | KNN | Perceptron | MLP (Multi Layer Perceptron) |
 | :----:  | :----:  | :----:  | :----: |
 | Accuracy  | 80 % | 67 % (r2 squared) | 85 % |
