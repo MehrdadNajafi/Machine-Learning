@@ -131,3 +131,20 @@
     - ![Screenshot (39)](https://user-images.githubusercontent.com/88179607/155635560-362d028f-509e-46d9-952d-f47137d3927e.png)
     - ![Screenshot (38)](https://user-images.githubusercontent.com/88179607/155635460-1d66203f-776c-468e-bb09-c7c96d40fb2e.png)
 </details>
+
+## Assignment 40
+<details>
+  <summary>Click to expand!</summary>
+  
+  ### Titanic Prediction with MLP, Perceptron, KNN
+  - Use machine learning to create a model that can predict survivors of the Titanic
+    - Execute predict on test data and report results
+    - Save MLP model
+    - Compare the accuracy of the models
+
+  | Algorithm | KNN | Perceptron | MLP (Multi Layer Perceptron) |
+  | :----:  | :----:  | :----:  | :----: |
+  | Accuracy  | 80 % | 67 % (r2 squared) | 85 % |
+
+  ![Screenshot (41)](https://user-images.githubusercontent.com/88179607/155654682-410d0d68-121c-4938-89ce-82385834ed75.png)
+</details>
