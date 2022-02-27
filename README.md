@@ -142,9 +142,11 @@
     - Save MLP model
     - Compare the accuracy of the models
 
-  | Algorithm | KNN | Perceptron | MLP (Multi Layer Perceptron) |
-  | :----:  | :----:  | :----:  | :----: |
-  | Accuracy  | 80 % | 67 % (r2 squared) | 85 % |
+  - Accuracy compare on Test data
+    - | Algorithm | KNN | Perceptron | MLP (Multi Layer Perceptron) |
+      | :----:  | :----:  | :----:  | :----: |
+      | Accuracy  | 80 % | 70 % (r2 squared) | 92 % |
 
-  ![Screenshot (41)](https://user-images.githubusercontent.com/88179607/155654682-410d0d68-121c-4938-89ce-82385834ed75.png)
+    - ![Screenshot (42)](https://user-images.githubusercontent.com/88179607/155876379-09781c8b-6e19-429f-9bca-8daca89eb2bf.png)
+
 </details>
