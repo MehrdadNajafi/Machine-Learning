@@ -145,8 +145,8 @@
   - Accuracy compare on Test data
     - | Algorithm | KNN | Perceptron | MLP (Multi Layer Perceptron) |
       | :----:  | :----:  | :----:  | :----: |
-      | Accuracy  | 80 % | 70 % (r2 squared) | 92 % |
+      | Accuracy  | 80 % | 66 % (r2 squared) | 93 % |
 
-    - ![Screenshot (42)](https://user-images.githubusercontent.com/88179607/155876379-09781c8b-6e19-429f-9bca-8daca89eb2bf.png)
+    - ![Screenshot (42)](https://user-images.githubusercontent.com/88179607/155876758-b526f288-e1cf-44c5-aee7-d1e956af896d.png)
 
 </details>
