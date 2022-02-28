@@ -1,0 +1,45 @@
+2022-02-28 12:41:55,396 INFO    MainThread:21560 [internal.py:wandb_internal():89] W&B internal server running at pid: 21560, started at: 2022-02-28 12:41:55.396106
+2022-02-28 12:41:55,397 INFO    WriterThread:21560 [datastore.py:open_for_write():77] open: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\run-2mrab67u.wandb
+2022-02-28 12:41:55,397 DEBUG   HandlerThread:21560 [handler.py:handle_request():131] handle_request: check_version
+2022-02-28 12:41:55,400 DEBUG   SenderThread:21560 [sender.py:send():235] send: header
+2022-02-28 12:41:55,400 DEBUG   SenderThread:21560 [sender.py:send_request():249] send_request: check_version
+2022-02-28 12:41:56,020 DEBUG   SenderThread:21560 [sender.py:send():235] send: run
+2022-02-28 12:41:56,585 INFO    SenderThread:21560 [dir_watcher.py:__init__():169] watching files in: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files
+2022-02-28 12:41:56,585 INFO    SenderThread:21560 [sender.py:_start_run_threads():809] run started: 2mrab67u with start time 1646039514
+2022-02-28 12:41:56,585 DEBUG   SenderThread:21560 [sender.py:send():235] send: summary
+2022-02-28 12:41:56,585 DEBUG   HandlerThread:21560 [handler.py:handle_request():131] handle_request: run_start
+2022-02-28 12:41:56,585 INFO    SenderThread:21560 [sender.py:_save_file():944] saving file wandb-summary.json with policy end
+2022-02-28 12:41:57,589 INFO    Thread-12 :21560 [dir_watcher.py:_on_file_created():217] file/dir created: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\wandb-summary.json
+2022-02-28 12:41:58,430 DEBUG   HandlerThread:21560 [meta.py:__init__():36] meta init
+2022-02-28 12:41:58,430 DEBUG   HandlerThread:21560 [meta.py:__init__():50] meta init done
+2022-02-28 12:41:58,431 DEBUG   HandlerThread:21560 [meta.py:probe():210] probe
+2022-02-28 12:41:58,443 DEBUG   HandlerThread:21560 [git.py:repo():33] git repository is invalid
+2022-02-28 12:41:58,443 DEBUG   HandlerThread:21560 [meta.py:_save_pip():54] save pip
+2022-02-28 12:41:58,444 DEBUG   HandlerThread:21560 [meta.py:_save_pip():68] save pip done
+2022-02-28 12:41:58,444 DEBUG   HandlerThread:21560 [meta.py:probe():248] probe done
+2022-02-28 12:41:58,446 DEBUG   SenderThread:21560 [sender.py:send():235] send: files
+2022-02-28 12:41:58,447 INFO    SenderThread:21560 [sender.py:_save_file():944] saving file wandb-metadata.json with policy now
+2022-02-28 12:41:58,464 DEBUG   HandlerThread:21560 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-28 12:41:58,465 DEBUG   SenderThread:21560 [sender.py:send_request():249] send_request: stop_status
+2022-02-28 12:41:58,597 INFO    Thread-12 :21560 [dir_watcher.py:_on_file_created():217] file/dir created: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\output.log
+2022-02-28 12:41:58,598 INFO    Thread-12 :21560 [dir_watcher.py:_on_file_created():217] file/dir created: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\wandb-metadata.json
+2022-02-28 12:41:58,598 INFO    Thread-12 :21560 [dir_watcher.py:_on_file_created():217] file/dir created: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\requirements.txt
+2022-02-28 12:42:00,091 INFO    Thread-15 :21560 [upload_job.py:push():137] Uploaded file C:\Users\M0E46~1.NAJ\AppData\Local\Temp\tmp0txoxxd_wandb\8zlfbbuu-wandb-metadata.json
+2022-02-28 12:42:12,566 WARNING MainThread:21560 [internal.py:is_dead():380] Internal process exiting, parent pid 3228 disappeared
+2022-02-28 12:42:12,566 ERROR   MainThread:21560 [internal.py:wandb_internal():148] Internal process shutdown.
+2022-02-28 12:42:13,418 INFO    SenderThread:21560 [sender.py:finish():1075] shutting down sender
+2022-02-28 12:42:13,418 INFO    HandlerThread:21560 [handler.py:finish():739] shutting down handler
+2022-02-28 12:42:13,418 INFO    SenderThread:21560 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-02-28 12:42:13,557 INFO    WriterThread:21560 [datastore.py:close():281] close: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\run-2mrab67u.wandb
+2022-02-28 12:42:13,695 INFO    SenderThread:21560 [dir_watcher.py:finish():313] scan: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files
+2022-02-28 12:42:13,695 INFO    SenderThread:21560 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\config.yaml config.yaml
+2022-02-28 12:42:13,696 INFO    SenderThread:21560 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\output.log output.log
+2022-02-28 12:42:13,696 INFO    SenderThread:21560 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\requirements.txt requirements.txt
+2022-02-28 12:42:13,698 INFO    SenderThread:21560 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\wandb-metadata.json wandb-metadata.json
+2022-02-28 12:42:13,698 INFO    SenderThread:21560 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\wandb-summary.json wandb-summary.json
+2022-02-28 12:42:13,700 INFO    SenderThread:21560 [file_pusher.py:finish():177] shutting down file pusher
+2022-02-28 12:42:13,700 INFO    SenderThread:21560 [file_pusher.py:join():182] waiting for file pusher
+2022-02-28 12:42:14,954 INFO    Thread-16 :21560 [upload_job.py:push():137] Uploaded file f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\config.yaml
+2022-02-28 12:42:14,988 INFO    Thread-17 :21560 [upload_job.py:push():137] Uploaded file f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\requirements.txt
+2022-02-28 12:42:15,024 INFO    Thread-18 :21560 [upload_job.py:push():137] Uploaded file f:\Python\Python Assignments\t41\Weather Temp Prediction\wandb\run-20220228_124146-2mrab67u\files\wandb-summary.json
+2022-02-28 12:42:16,049 INFO    MainThread:21560 [internal.py:handle_exit():79] Internal process exited

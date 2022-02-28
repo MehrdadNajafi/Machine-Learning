@@ -1,0 +1,50 @@
+2022-02-28 12:53:15,357 INFO    MainThread:3692 [internal.py:wandb_internal():89] W&B internal server running at pid: 3692, started at: 2022-02-28 12:53:15.357017
+2022-02-28 12:53:15,358 INFO    WriterThread:3692 [datastore.py:open_for_write():77] open: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\run-o1m385lr.wandb
+2022-02-28 12:53:15,359 DEBUG   HandlerThread:3692 [handler.py:handle_request():131] handle_request: check_version
+2022-02-28 12:53:15,361 DEBUG   SenderThread:3692 [sender.py:send():235] send: header
+2022-02-28 12:53:15,361 DEBUG   SenderThread:3692 [sender.py:send_request():249] send_request: check_version
+2022-02-28 12:53:16,095 DEBUG   SenderThread:3692 [sender.py:send():235] send: run
+2022-02-28 12:53:16,655 DEBUG   HandlerThread:3692 [handler.py:handle_request():131] handle_request: run_start
+2022-02-28 12:53:16,655 INFO    SenderThread:3692 [dir_watcher.py:__init__():169] watching files in: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files
+2022-02-28 12:53:16,655 INFO    SenderThread:3692 [sender.py:_start_run_threads():809] run started: o1m385lr with start time 1646040194
+2022-02-28 12:53:16,655 DEBUG   SenderThread:3692 [sender.py:send():235] send: summary
+2022-02-28 12:53:16,655 INFO    SenderThread:3692 [sender.py:_save_file():944] saving file wandb-summary.json with policy end
+2022-02-28 12:53:17,658 INFO    Thread-12 :3692 [dir_watcher.py:_on_file_created():217] file/dir created: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\wandb-summary.json
+2022-02-28 12:53:18,559 DEBUG   HandlerThread:3692 [meta.py:__init__():36] meta init
+2022-02-28 12:53:18,559 DEBUG   HandlerThread:3692 [meta.py:__init__():50] meta init done
+2022-02-28 12:53:18,559 DEBUG   HandlerThread:3692 [meta.py:probe():210] probe
+2022-02-28 12:53:18,575 DEBUG   HandlerThread:3692 [git.py:repo():33] git repository is invalid
+2022-02-28 12:53:18,575 DEBUG   HandlerThread:3692 [meta.py:_save_pip():54] save pip
+2022-02-28 12:53:18,576 DEBUG   HandlerThread:3692 [meta.py:_save_pip():68] save pip done
+2022-02-28 12:53:18,576 DEBUG   HandlerThread:3692 [meta.py:probe():248] probe done
+2022-02-28 12:53:18,600 DEBUG   SenderThread:3692 [sender.py:send():235] send: files
+2022-02-28 12:53:18,600 INFO    SenderThread:3692 [sender.py:_save_file():944] saving file wandb-metadata.json with policy now
+2022-02-28 12:53:18,604 DEBUG   HandlerThread:3692 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-28 12:53:18,604 DEBUG   SenderThread:3692 [sender.py:send_request():249] send_request: stop_status
+2022-02-28 12:53:18,667 INFO    Thread-12 :3692 [dir_watcher.py:_on_file_created():217] file/dir created: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\output.log
+2022-02-28 12:53:18,667 INFO    Thread-12 :3692 [dir_watcher.py:_on_file_created():217] file/dir created: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\requirements.txt
+2022-02-28 12:53:18,667 INFO    Thread-12 :3692 [dir_watcher.py:_on_file_created():217] file/dir created: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\wandb-metadata.json
+2022-02-28 12:53:19,878 INFO    Thread-15 :3692 [upload_job.py:push():137] Uploaded file C:\Users\M0E46~1.NAJ\AppData\Local\Temp\tmpq70iv0i7wandb\2metrjrf-wandb-metadata.json
+2022-02-28 12:53:34,136 DEBUG   HandlerThread:3692 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-28 12:53:34,136 DEBUG   SenderThread:3692 [sender.py:send_request():249] send_request: stop_status
+2022-02-28 12:53:49,147 DEBUG   SenderThread:3692 [sender.py:send():235] send: stats
+2022-02-28 12:53:49,708 DEBUG   HandlerThread:3692 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-28 12:53:49,708 DEBUG   SenderThread:3692 [sender.py:send_request():249] send_request: stop_status
+2022-02-28 12:53:56,561 WARNING MainThread:3692 [internal.py:is_dead():380] Internal process exiting, parent pid 3440 disappeared
+2022-02-28 12:53:56,561 ERROR   MainThread:3692 [internal.py:wandb_internal():148] Internal process shutdown.
+2022-02-28 12:53:57,191 INFO    WriterThread:3692 [datastore.py:close():281] close: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\run-o1m385lr.wandb
+2022-02-28 12:53:57,252 INFO    SenderThread:3692 [sender.py:finish():1075] shutting down sender
+2022-02-28 12:53:57,252 INFO    HandlerThread:3692 [handler.py:finish():739] shutting down handler
+2022-02-28 12:53:57,252 INFO    SenderThread:3692 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-02-28 12:53:57,823 INFO    SenderThread:3692 [dir_watcher.py:finish():313] scan: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files
+2022-02-28 12:53:57,823 INFO    SenderThread:3692 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\config.yaml config.yaml
+2022-02-28 12:53:57,823 INFO    SenderThread:3692 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\output.log output.log
+2022-02-28 12:53:57,823 INFO    SenderThread:3692 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\requirements.txt requirements.txt
+2022-02-28 12:53:57,825 INFO    SenderThread:3692 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\wandb-metadata.json wandb-metadata.json
+2022-02-28 12:53:57,825 INFO    SenderThread:3692 [dir_watcher.py:finish():327] scan save: f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\wandb-summary.json wandb-summary.json
+2022-02-28 12:53:57,826 INFO    SenderThread:3692 [file_pusher.py:finish():177] shutting down file pusher
+2022-02-28 12:53:57,826 INFO    SenderThread:3692 [file_pusher.py:join():182] waiting for file pusher
+2022-02-28 12:53:59,069 INFO    Thread-16 :3692 [upload_job.py:push():137] Uploaded file f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\config.yaml
+2022-02-28 12:53:59,129 INFO    Thread-17 :3692 [upload_job.py:push():137] Uploaded file f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\requirements.txt
+2022-02-28 12:53:59,129 INFO    Thread-18 :3692 [upload_job.py:push():137] Uploaded file f:\Python\Python Assignments\t41\Boston Housing\wandb\run-20220228_125307-o1m385lr\files\wandb-summary.json
+2022-02-28 12:53:59,605 INFO    MainThread:3692 [internal.py:handle_exit():79] Internal process exited
